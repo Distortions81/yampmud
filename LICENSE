@@ -1,0 +1,20 @@
+Licensing and attribution
+
+This repository contains inherited DikuMud, Merc, and Fatal Dimensions code.
+It is not licensed as a whole under MIT or another single replacement license.
+
+The existing full license texts are authoritative:
+
+- doc/license.doc: the DikuMud license, including its noncommercial-use,
+  attribution, notice-preservation, and notification conditions.
+- doc/license.txt: the Merc license, which requires compliance with both
+  the DikuMud license and Merc's additional attribution requirements.
+- src/LICENSE.FD: the Fatal Dimensions license for the relevant contributions.
+
+Preserve copyright and license notices in individual source files, and comply
+with all terms applicable to the code being used or redistributed. The README
+also requests that the maintainer's name remain in help authors and that
+help authors be shown at the login screen.
+
+This file is an index to existing terms. It grants no additional permissions,
+does not replace those terms, and does not transfer any copyright ownership.
